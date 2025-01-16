@@ -54,7 +54,7 @@ export default function ProjectTable({ projects }) {
                             </td>
                             <td className="px-4 py-3 text-sm">
                                 <a
-                                    href={project.link}
+                                    href={project.ppt}
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="text-blue-500 hover:underline"
