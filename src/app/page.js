@@ -112,7 +112,7 @@ export default function ProjectsPage() {
     {
       id: 13,
       group: "13",
-      name: "Alumni Platform",
+      name: "Women's empowerment and their safety",
       prn: [2341049, 2341050, 2341052, 2341053],
       students: ["RAJPUT NANADINI", "RAKHONDE MONIKA", "RAUT SHRADDHA", "SAPKE KARAN"],
       link: "https://jayesh00406.github.io/index/",
