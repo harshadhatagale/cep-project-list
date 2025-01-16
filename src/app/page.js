@@ -106,8 +106,7 @@ export default function ProjectsPage() {
       name: "Student's site for PG",
       prn: [2341046, 2341047, 2341048, 2341059],
       students: [ "PAWADE ASMIT", "PAWAR RAKESH","PRAJAPATI ADITYA", "SWAMI PRATHMESH"],
-      link: "https://soyo-mwft.vercel.app/",
-      ppt:"https://docs.google.com/presentation/d/1_obDFXXJ45-8WL3Udiw0GAj5P7AdVkxm/edit?usp=drivesdk&ouid=107357105824273253423&rtpof=true&sd=true",
+      link: "https://soyo-mwft.vercel.app/", ppt:"https://docs.google.com/presentation/d/1_obDFXXJ45-8WL3Udiw0GAj5P7AdVkxm/edit?usp=drivesdk&ouid=107357105824273253423&rtpof=true&sd=true",
     },
     {
       id: 13,
@@ -124,8 +123,7 @@ export default function ProjectsPage() {
       name: "Website for laws & rights",
       prn: [2341054, 2341056, 2341057,2341058],
       students: ["SATONE RADHIKA", "SINGH ANIKET", "SOLUNKE VAIDHAVI", "SONAR PARAG"],
-      link: "https://human-rights-laws.netlify.app/",
-      ppt:"#",
+      link: "https://human-rights-laws.netlify.app/", ppt:"https://docs.google.com/presentation/d/1e3LDYvMk2vbYBpr8RYRMAMGPBgPHSA6-/edit?usp=drivesdk&ouid=107427865176270548763&rtpof=true&sd=true",
     },
     {
       id: 15,
@@ -151,8 +149,7 @@ export default function ProjectsPage() {
       name: "Hospital Locator",
       prn: [2341007, 2442209, 2442204],
       students: ["MAHAJAN NEHA", "TAYADE SAVITA", "FIRKE HIMANSHU"],
-      link: "#",
-      ppt:"#",
+      link: "https://github.com/Himanshu-oss-cmyk/hospital-locator.git",    ppt:"https://docs.google.com/presentation/d/17ZSlkl7Hg18I4okOoWOUqAdEM4pw18jl/edit?usp=drivesdk&ouid=108765930448252938862&rtpof=true&sd=true",
     },
     {
       id: 18,
