@@ -167,6 +167,7 @@ export default function ProjectsPage() {
           <h1 className="text-4xl font-extrabold text-blue-600">
             Government College of Engineering, Jalgaon
           </h1>
+          <h2>Community Engineering Project - CE250N</h2>
         </div>
         <p className="text-lg text-black mt-2">
           Showcasing innovative projects by our talented students.
