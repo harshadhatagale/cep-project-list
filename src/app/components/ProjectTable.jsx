@@ -9,6 +9,7 @@ export default function ProjectTable({ projects }) {
                         <th className="px-4 py-3 text-left text-sm font-semibold">Students</th>
                         <th className="px-4 py-3 text-left text-sm font-semibold">Project Name</th>
                         <th className="px-4 py-3 text-left text-sm font-semibold">Code Link</th>
+                        <th className="px-4 py-3 text-left text-sm font-semibold">PPT Link</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -41,6 +42,16 @@ export default function ProjectTable({ projects }) {
                                     className="text-blue-500 hover:underline"
                                 >
                                     View Code
+                                </a>
+                            </td>
+                            <td className="px-4 py-3 text-sm">
+                                <a
+                                    href={project.link}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="text-blue-500 hover:underline"
+                                >
+                                    View PPT
                                 </a>
                             </td>
                         </tr>

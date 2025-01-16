@@ -1,39 +1,4 @@
 import ProjectTable from './components/ProjectTable';
-
-// sustainibility developement goal
-// NGO site:
-// 6
-// 2341021
-// 
-// 2341022
-// 
-// 2341024
-// 
-// Mess menu identify
-// 2341025
-// 
-// 2341027
-// MESHRAM ALOK PRASHANT
-// 2341028
-// MOKASE JAYESH DILIP
-// 7
-// Blood Bank Websiite
-// 2341029
-// NAJARDHANE VISHNU MOHAN
-// 2341030
-// NEHETE RIYA AVINASH
-// 2341031
-// NEMADE HOMESHWARI TUKARAM
-// 8
-// Solution for Pollution
-// 2341032
-// NEMADE ROHIT KAILAS
-// 2341033
-// WAYKOLE OJAS DIGAMBAR
-// 2341034
-// PARADHI DURGESHWARI YUVRAJ
-// Farmer's issues and agriculture equipments
-// 9
 export default function ProjectsPage() {
   const projects = [
     {
@@ -66,7 +31,7 @@ export default function ProjectsPage() {
       name: "Sustainaibillity development goal",
       prn: [2341015, 2341016],
       students: ["GAJBHIYE PRANALI SHAILENDRA", "GOTHWAD VEDANT ULHAS"],
-      link: "https://github.com/group3/alumni-platform",
+      link: "https://pra202356.github.io/sustainable/index.html",
     },
     {
       id: 5,
@@ -74,7 +39,7 @@ export default function ProjectsPage() {
       name: "NGO Site",
       prn: [2341017, 2341018, 2341019,2341020],
       students: ["HADE SHAILESH JAGANNATH", "HATAGALE HARSHAD BHARAT", "JADHAV DURVESH SANTOSH", "JAGTAP VEDANT DEEPAK"],
-      link: "https://github.com/group3/alumni-platform",
+      link: "https://donatify.vercel.app/",
     },
     {
       id: 6,
@@ -88,105 +53,105 @@ export default function ProjectsPage() {
       id: 7,
       group: "7",
       name: "Blood bank website",
-      prn: [2341010, 2341012, 2341013,2341014],
-      students: ["Mark Lee", "Chris Green", "Anna Bell", "Sophia Turner"],
-      link: "https://github.com/group3/alumni-platform",
+      prn: [2341027, 2341028, 2341029,2341030],
+      students: ["MASHRAM ALOK", "MOKASHE JAYESH", "NAJARDHANE VISHNU", "NEHETE RIYA"],
+      link: "https://jayesh00406.github.io/BloodBank/ ",
     },
     {
       id: 8,
       group: "8",
-      name: "Alumni Platform",
-      prn: [2341010, 2341012, 2341013,2341014],
-      students: ["Mark Lee", "Chris Green", "Anna Bell", "Sophia Turner"],
-      link: "https://github.com/group3/alumni-platform",
+      name: "Solution for pollution",
+      prn: [2341031, 2341032],
+      students: ["NEMADE HOMESHWARI", "NEMADE ROHIT"],
+      link: "#",
     },
     {
       id: 9,
       group: "9",
-      name: "Alumni Platform",
-      prn: [2341010, 2341012, 2341013,2341014],
-      students: ["Mark Lee", "Chris Green", "Anna Bell", "Sophia Turner"],
-      link: "https://github.com/group3/alumni-platform",
+      name: "Farmer's issues & Agricuture equipements",
+      prn: [2341033, 2341034, 2341035, 2341036],
+      students: [ "OJAS WAYKOLE","PARDHI DURGESHWARI","AAYUSH PATIL","AKSHAY PATIL"],
+      link: "https://aayush901.github.io/Agriculture/",
     },
     {
       id: 10,
       group: "10",
-      name: "Alumni Platform",
-      prn: [2341010, 2341012, 2341013,2341014],
-      students: ["Mark Lee", "Chris Green", "Anna Bell", "Sophia Turner"],
-      link: "https://github.com/group3/alumni-platform",
+      name: "NGO Site for wildlife",
+      prn: [2341037, 2341038, 2341040,2341041],
+      students: ["PATIL LALIT", "PATIL MEGHA", "PATIL PRADNYA", "PATIL SAKSHI"],
+      link: "https://peace-for-anyone.netlify.app/",
     },
     {
       id: 11,
       group: "11",
-      name: "Alumni Platform",
-      prn: [2341010, 2341012, 2341013,2341014],
-      students: ["Mark Lee", "Chris Green", "Anna Bell", "Sophia Turner"],
-      link: "https://github.com/group3/alumni-platform",
+      name: "Service providers & Seekers",
+      prn: [2341042, 2341043, 2341044,2341045],
+      students: ["PATIL SAKSHI", "PATIL TEJAS", "PATIL YASH", "PATLE AMIT"],
+      link: "#",
     },
     {
       id: 12,
       group: "12",
-      name: "Alumni Platform",
-      prn: [2341010, 2341012, 2341013,2341014],
-      students: ["Mark Lee", "Chris Green", "Anna Bell", "Sophia Turner"],
-      link: "https://github.com/group3/alumni-platform",
+      name: "Student's site for PG",
+      prn: [2341046, 2341047, 2341048],
+      students: [ "PAWADE ASMIT", "PAWAR RAKESH","PRAJAPATI ADITYA"],
+      link: "https://soyo-mwft.vercel.app/",
     },
     {
       id: 13,
       group: "13",
       name: "Alumni Platform",
-      prn: [2341010, 2341012, 2341013,2341014],
-      students: ["Mark Lee", "Chris Green", "Anna Bell", "Sophia Turner"],
-      link: "https://github.com/group3/alumni-platform",
+      prn: [2341049, 2341050, 234152, 2341053],
+      students: ["RAJPUT NANADINI", "RAKHONDE MONIKA", "RAUT SHRADDHA", "SAPKE KARAN"],
+      link: "https://jayesh00406.github.io/index/",
     },
     {
       id: 14,
       group: "14",
-      name: "Alumni Platform",
-      prn: [2341010, 2341012, 2341013,2341014],
-      students: ["Mark Lee", "Chris Green", "Anna Bell", "Sophia Turner"],
-      link: "https://github.com/group3/alumni-platform",
+      name: "Website for laws & rights",
+      prn: [23410154, 2341056, 2341057,2341058],
+      students: ["SATONE RADHIKA", "SINGH ANIKET", "SOLUNKE VAIDHAVI", "SONAR PARAG"],
+      link: "#",
     },
     {
       id: 15,
       group: "15",
-      name: "Alumni Platform",
-      prn: [2341010, 2341012, 2341013,2341014],
-      students: ["Mark Lee", "Chris Green", "Anna Bell", "Sophia Turner"],
-      link: "https://github.com/group3/alumni-platform",
+      name: "Support for specially able person",
+      prn: [2341060, 2341061,2341062],
+      students: ["Shivashankar Totare","Aachal Varade","Arohi Vardikar"],
+      link: "https://arohivardikar.github.io/Website-for-Specially-Abled-Persons/",
     },
     {
       id: 16,
       group: "16",
       name: "DISASTER MANAGEMENT",
-      prn: [2341010, 2341012, 2341013,2341014],
-      students: ["Mark Lee", "Chris Green", "Anna Bell", "Sophia Turner"],
-      link: "https://github.com/group3/alumni-platform",
+      prn: [2341063, 2341064, 2341065,2341067],
+      students: ["INDRESH SANJAY YADAV", "KAMLESH SUYOG YAWALKAR", "SUCHITA SHASHIKANT YEOLE", "SAI PRASANT ZADE"],
+      link: "https://disaster-aid-network.netlify.app/",
     },
     {
       id: 17,
       group: "17",
-      name: "",
-      prn: [2341010, 2341012, 2341013,2341014],
+      name: "Hospital Locator",
+      prn: [2341007, 2442209, 2442204],
       students: ["MAHAJAN NEHA", "TAYADE SAVITA", "FIRKE HIMANSHU"],
-      link: "https://github.com/group3/alumni-platform",
+      link: "#",
     },
     {
       id: 18,
       group: "18",
       name: " Groceries For Disabled Or Old Age People",
-      prn: ["DSY", "DSY", "DSY","DSY"],
+      prn: ["2442202", "2442206", "2442210","2442208"],
       students: ["PATIL BHAVNA", "PATIL KANDARP", "YADAV SHIVRAJ", "DNYANESHVARI PAYMODE"],
       link: "https://github.com/dnyaneshwari44/grocery_ordering",
     },
     {
       id: 19,
       group: "19",
-      name: "Alumni Platform",
-      prn: ["DSY", "DSY", "DSY"],
+      name: "Transport facillities for old age & disabled peoples",
+      prn: ["2442201", "2442203", "2442205"],
       students: ["BHAGYASHREE", "SHIVPRASAD", "SANYOGITA"],
-      link: "https://github.com/Shivprasadpravindongapure/trasnsport",
+      link: "#",
     },
   ];
 
