@@ -169,7 +169,7 @@ export default function ProjectsPage() {
       name: "Transport facillities for old age & disabled peoples",
       prn: ["2442201", "2442203", "2442205"],
       students: ["BHAGYASHREE", "SHIVPRASAD", "SANYOGITA"],
-      link: "#",
+      link: "https://github.com/Shivprasadpravindongapure/trasnsport.git",
       ppt:"#",
     },
   ];
