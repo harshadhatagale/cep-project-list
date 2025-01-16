@@ -79,8 +79,7 @@ export default function ProjectsPage() {
       name: "Farmer's issues & Agricuture equipements",
       prn: [2341033, 2341034, 2341035, 2341036],
       students: [ "OJAS WAYKOLE","PARDHI DURGESHWARI","AAYUSH PATIL","AKSHAY PATIL"],
-      link: "https://aayush901.github.io/Agriculture/",
-      ppt:"#",
+      link: "https://aayush901.github.io/Agriculture/",   ppt:"https://1drv.ms/p/s!AmfEZKIwJ3VQhAfBRNus0C3X4lpB?e=fNAPb1",
     },
     {
       id: 10,
