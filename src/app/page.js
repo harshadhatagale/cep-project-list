@@ -44,7 +44,7 @@ export default function ProjectsPage() {
       prn: [2341017, 2341018, 2341019,2341020],
       students: ["HADE SHAILESH JAGANNATH", "HATAGALE HARSHAD BHARAT", "JADHAV DURVESH SANTOSH", "JAGTAP VEDANT DEEPAK"],
       link: "https://donatify.vercel.app/",
-      ppt:"#",
+      ppt:"https://docs.google.com/presentation/d/1doWPlitnSKPAyY55OijSnq9aFOt4Jxmk/edit?usp=drivesdk&ouid=107427865176270548763&rtpof=true&sd=true",
     },
     {
       id: 6,
@@ -89,7 +89,7 @@ export default function ProjectsPage() {
       prn: [2341037, 2341038, 2341040,2341041],
       students: ["PATIL LALIT", "PATIL MEGHA", "PATIL PRADNYA", "PATIL SAKSHI"],
       link: "https://peace-for-anyone.netlify.app/",
-      ppt:"#",
+      ppt:"https://docs.google.com/presentation/d/1AVGndrdefvNqtwrbVmL2mGLD4ELO_EqC/edit?usp=drivesdk&ouid=106443707923363469191&rtpof=true&sd=true",
     },
     {
       id: 11,
@@ -124,7 +124,7 @@ export default function ProjectsPage() {
       name: "Website for laws & rights",
       prn: [2341054, 2341056, 2341057,2341058],
       students: ["SATONE RADHIKA", "SINGH ANIKET", "SOLUNKE VAIDHAVI", "SONAR PARAG"],
-      link: "#",
+      link: "https://human-rights-laws.netlify.app/",
       ppt:"#",
     },
     {
