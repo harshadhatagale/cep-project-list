@@ -104,10 +104,10 @@ export default function ProjectsPage() {
       id: 12,
       group: "12",
       name: "Student's site for PG",
-      prn: [2341046, 2341047, 2341048],
-      students: [ "PAWADE ASMIT", "PAWAR RAKESH","PRAJAPATI ADITYA"],
+      prn: [2341046, 2341047, 2341048, 2341059],
+      students: [ "PAWADE ASMIT", "PAWAR RAKESH","PRAJAPATI ADITYA", "SWAMI PRATHMESH"],
       link: "https://soyo-mwft.vercel.app/",
-      ppt:"#",
+      ppt:"https://docs.google.com/presentation/d/1_obDFXXJ45-8WL3Udiw0GAj5P7AdVkxm/edit?usp=drivesdk&ouid=107357105824273253423&rtpof=true&sd=true",
     },
     {
       id: 13,
@@ -143,7 +143,7 @@ export default function ProjectsPage() {
       prn: [2341063, 2341064, 2341065,2341067],
       students: ["INDRESH SANJAY YADAV", "KAMLESH SUYOG YAWALKAR", "SUCHITA SHASHIKANT YEOLE", "SAI PRASANT ZADE"],
       link: "https://disaster-aid-network.netlify.app/",
-      ppt:"#",
+      ppt:"https://docs.google.com/presentation/d/1dfTXWGJAaq7VkVSr3mF5-adrpjJ-wM-g/edit?usp=drivesdk&ouid=107427865176270548763&rtpof=true&sd=true",
     },
     {
       id: 17,
