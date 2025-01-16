@@ -8,7 +8,7 @@ export default function ProjectTable({ projects }) {
                         <th className="px-4 py-3 text-left text-sm font-semibold">PRN:</th>
                         <th className="px-4 py-3 text-left text-sm font-semibold">Students</th>
                         <th className="px-4 py-3 text-left text-sm font-semibold">Project Name</th>
-                        <th className="px-4 py-3 text-left text-sm font-semibold">Code Link</th>
+                        <th className="px-4 py-3 text-left text-sm font-semibold">Link</th>
                         <th className="px-4 py-3 text-left text-sm font-semibold">PPT Link</th>
                     </tr>
                 </thead>
