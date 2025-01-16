@@ -53,7 +53,7 @@ export default function ProjectsPage() {
       prn: [2341021, 2341022, 2341024,2341025],
       students: ["JALANDRA UMESH LAXMAN", "KALE SIDDHANT ANIL", "KARKE SURAJ VASANT", "KHILLARE DIPAK LAXMAN"],
       link: "https://messjunction.netlify.app/",
-      ppt:"#",
+      ppt:"https://docs.google.com/presentation/d/1hfWoUN-qb7mWhJzIeBZRy3VrM8I7HC4m/edit?usp=drivesdk&ouid=103960259801518594376&rtpof=true&sd=true",
     },
     {
       id: 7,
@@ -140,7 +140,7 @@ export default function ProjectsPage() {
       id: 16,
       group: "16",
       name: "DISASTER MANAGEMENT",
-      prn: [2341063, 2341064, 2341065,2341067],
+      prn: [2341063, 2341064, 2341065,2341066],
       students: ["INDRESH SANJAY YADAV", "KAMLESH SUYOG YAWALKAR", "SUCHITA SHASHIKANT YEOLE", "SAI PRASANT ZADE"],
       link: "https://disaster-aid-network.netlify.app/",
       ppt:"https://docs.google.com/presentation/d/1dfTXWGJAaq7VkVSr3mF5-adrpjJ-wM-g/edit?usp=drivesdk&ouid=107427865176270548763&rtpof=true&sd=true",
