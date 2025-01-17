@@ -16,8 +16,7 @@ export default function ProjectsPage() {
       name: "Provide Employabilliy: Recruiters's Resume/CV building using profile data",
       prn: [2341006, 2341007, 2341008,2341009],
       students: ["BHOSLE NEHA VIKAS", "BORKAR SAHIL DILIP", "BOROLE PREM SUDAM", "CHAUDHARI ABHAY SANJAY"],
-      link: "https://github.com/group2/todo-list",
-      ppt:"#",
+      link: "https://github.com/PremBorole/GCOEJ-SY-CO-2024-25_G2.git", ppt:"https://docs.google.com/presentation/d/1tR0-gg6luYlSMBo37PnmxkX75Cy3MoGd/edit?usp=drivesdk&ouid=103793536953311800072&rtpof=true&sd=true",
     },
     {
       id: 3,
@@ -52,8 +51,7 @@ export default function ProjectsPage() {
       name: "Mess menu identify",
       prn: [2341021, 2341022, 2341024,2341025],
       students: ["JALANDRA UMESH LAXMAN", "KALE SIDDHANT ANIL", "KARKE SURAJ VASANT", "KHILLARE DIPAK LAXMAN"],
-      link: "https://messjunction.netlify.app/",
-      ppt:"https://docs.google.com/presentation/d/1hfWoUN-qb7mWhJzIeBZRy3VrM8I7HC4m/edit?usp=drivesdk&ouid=103960259801518594376&rtpof=true&sd=true",
+      link: "https://messjunction.netlify.app/", ppt:"https://docs.google.com/presentation/d/1hfWoUN-qb7mWhJzIeBZRy3VrM8I7HC4m/edit?usp=drivesdk&ouid=103960259801518594376&rtpof=true&sd=true",
     },
     {
       id: 7,
