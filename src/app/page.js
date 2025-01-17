@@ -96,8 +96,8 @@ export default function ProjectsPage() {
       name: "Service providers & Seekers",
       prn: [2341042, 2341043, 2341044,2341045],
       students: ["PATIL SAKSHI", "PATIL TEJAS", "PATIL YASH", "PATLE AMIT"],
-      link: "#",
-      ppt:"#",
+      link: "https://amit125-maruti.github.io/Amit125/",
+      ppt:"https://drive.google.com/file/d/1ieJxdz5yLF73PNJ5Q5YpITcfULSoq4Ej/view?usp=drivesdk",
     },
     {
       id: 12,
