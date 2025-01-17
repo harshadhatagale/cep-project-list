@@ -151,7 +151,7 @@ export default function ProjectsPage() {
       name: "Hospital Locator",
       prn: [2341007, 2442209, 2442204],
       students: ["MAHAJAN NEHA", "TAYADE SAVITA", "FIRKE HIMANSHU"],
-      link: "#",
+      link: "https://github.com/Himanshu-oss-cmyk/hospital-locator.git",
       ppt:"#",
     },
     {
@@ -170,7 +170,7 @@ export default function ProjectsPage() {
       prn: ["2442201", "2442203", "2442205"],
       students: ["BHAGYASHREE", "SHIVPRASAD", "SANYOGITA"],
       link: "https://github.com/Shivprasadpravindongapure/trasnsport.git",
-      ppt:"#",
+      ppt:"https://1drv.ms/p/c/cf290799d0e4c51a/EY_zuwO6GMdNo531w-1DwkIBxDDEACehlhtqzDM7y3bagA",
     },
   ];
 
