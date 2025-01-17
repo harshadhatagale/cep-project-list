@@ -146,7 +146,8 @@ export default function ProjectsPage() {
       name: "Hospital Locator",
       prn: [2341007, 2442209, 2442204],
       students: ["MAHAJAN NEHA", "TAYADE SAVITA", "FIRKE HIMANSHU"],
-      link: "https://github.com/Himanshu-oss-cmyk/hospital-locator.git",    ppt:"https://docs.google.com/presentation/d/17ZSlkl7Hg18I4okOoWOUqAdEM4pw18jl/edit?usp=drivesdk&ouid=108765930448252938862&rtpof=true&sd=true",
+      link: "https://github.com/Himanshu-oss-cmyk/hospital-locator.git",    
+      ppt:"https://docs.google.com/presentation/d/17ZSlkl7Hg18I4okOoWOUqAdEM4pw18jl/edit?usp=drivesdk&ouid=108765930448252938862&rtpof=true&sd=true",
     },
     {
       id: 18,
