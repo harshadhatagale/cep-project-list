@@ -191,6 +191,9 @@ export default function ProjectsPage() {
         <p className="text-lg text-gray-600 mt-2">
           Showcasing innovative projects by our talented students.
         </p>
+        <p className='font-bold text-lg my-2 self-end'>
+          Guided by: Prof. T. K. Gawali Sir
+        </p>
       </header>
       <ProjectTable projects={projects} />
       <footer className="text-center mt-8 mb-8 text-sm">
