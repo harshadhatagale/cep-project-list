@@ -16,8 +16,7 @@ export default function ProjectsPage() {
       name: "Provide Employabilliy: Recruiters's Resume/CV building using profile data",
       prn: [2341006, 2341007, 2341008,2341009],
       students: ["BHOSLE NEHA VIKAS", "BORKAR SAHIL DILIP", "BOROLE PREM SUDAM", "CHAUDHARI ABHAY SANJAY"],
-      link: "https://github.com/group2/todo-list",
-      ppt:"#",
+      link: "https://github.com/PremBorole/GCOEJ-SY-CO-2024-25_G2.git", ppt:"https://docs.google.com/presentation/d/1tR0-gg6luYlSMBo37PnmxkX75Cy3MoGd/edit?usp=drivesdk&ouid=103793536953311800072&rtpof=true&sd=true",
     },
     {
       id: 3,
@@ -52,8 +51,7 @@ export default function ProjectsPage() {
       name: "Mess menu identify",
       prn: [2341021, 2341022, 2341024,2341025],
       students: ["JALANDRA UMESH LAXMAN", "KALE SIDDHANT ANIL", "KARKE SURAJ VASANT", "KHILLARE DIPAK LAXMAN"],
-      link: "https://messjunction.netlify.app/",
-      ppt:"https://docs.google.com/presentation/d/1hfWoUN-qb7mWhJzIeBZRy3VrM8I7HC4m/edit?usp=drivesdk&ouid=103960259801518594376&rtpof=true&sd=true",
+      link: "https://messjunction.netlify.app/", ppt:"https://docs.google.com/presentation/d/1hfWoUN-qb7mWhJzIeBZRy3VrM8I7HC4m/edit?usp=drivesdk&ouid=103960259801518594376&rtpof=true&sd=true",
     },
     {
       id: 7,
@@ -79,8 +77,7 @@ export default function ProjectsPage() {
       name: "Farmer's issues & Agricuture equipements",
       prn: [2341033, 2341034, 2341035, 2341036],
       students: [ "OJAS WAYKOLE","PARDHI DURGESHWARI","AAYUSH PATIL","AKSHAY PATIL"],
-      link: "https://aayush901.github.io/Agriculture/",
-      ppt:"#",
+      link: "https://aayush901.github.io/Agriculture/",   ppt:"https://1drv.ms/p/s!AmfEZKIwJ3VQhAfBRNus0C3X4lpB?e=fNAPb1",
     },
     {
       id: 10,
@@ -97,8 +94,8 @@ export default function ProjectsPage() {
       name: "Service providers & Seekers",
       prn: [2341042, 2341043, 2341044,2341045],
       students: ["PATIL SAKSHI", "PATIL TEJAS", "PATIL YASH", "PATLE AMIT"],
-      link: "#",
-      ppt:"#",
+      link: "https://amit125-maruti.github.io/Amit125/",
+      ppt:"https://drive.google.com/file/d/1ieJxdz5yLF73PNJ5Q5YpITcfULSoq4Ej/view?usp=drivesdk",
     },
     {
       id: 12,
@@ -106,8 +103,7 @@ export default function ProjectsPage() {
       name: "Student's site for PG",
       prn: [2341046, 2341047, 2341048, 2341059],
       students: [ "PAWADE ASMIT", "PAWAR RAKESH","PRAJAPATI ADITYA", "SWAMI PRATHMESH"],
-      link: "https://soyo-mwft.vercel.app/",
-      ppt:"https://docs.google.com/presentation/d/1_obDFXXJ45-8WL3Udiw0GAj5P7AdVkxm/edit?usp=drivesdk&ouid=107357105824273253423&rtpof=true&sd=true",
+      link: "https://soyo-mwft.vercel.app/", ppt:"https://docs.google.com/presentation/d/1_obDFXXJ45-8WL3Udiw0GAj5P7AdVkxm/edit?usp=drivesdk&ouid=107357105824273253423&rtpof=true&sd=true",
     },
     {
       id: 13,
@@ -124,8 +120,7 @@ export default function ProjectsPage() {
       name: "Website for laws & rights",
       prn: [2341054, 2341056, 2341057,2341058],
       students: ["SATONE RADHIKA", "SINGH ANIKET", "SOLUNKE VAIDHAVI", "SONAR PARAG"],
-      link: "https://human-rights-laws.netlify.app/",
-      ppt:"#",
+      link: "https://human-rights-laws.netlify.app/", ppt:"https://docs.google.com/presentation/d/1e3LDYvMk2vbYBpr8RYRMAMGPBgPHSA6-/edit?usp=drivesdk&ouid=107427865176270548763&rtpof=true&sd=true",
     },
     {
       id: 15,
@@ -151,8 +146,7 @@ export default function ProjectsPage() {
       name: "Hospital Locator",
       prn: [2341007, 2442209, 2442204],
       students: ["MAHAJAN NEHA", "TAYADE SAVITA", "FIRKE HIMANSHU"],
-      link: "https://github.com/Himanshu-oss-cmyk/hospital-locator.git",
-      ppt:"#",
+      link: "https://github.com/Himanshu-oss-cmyk/hospital-locator.git",    ppt:"https://docs.google.com/presentation/d/17ZSlkl7Hg18I4okOoWOUqAdEM4pw18jl/edit?usp=drivesdk&ouid=108765930448252938862&rtpof=true&sd=true",
     },
     {
       id: 18,
